@@ -1,0 +1,16 @@
+// random computer choice of ROCK, PAPER, SCISSOR
+	after user input of ROCK, PAPER, SCISSOR //
+
+// user input: 
+	3 buttons: 'Rock', 'Paper', 'Scissor'
+	<h2>click one.</h2>
+
+html: <button type="button">Paper</button>
+	<button type="button">Rock</button>
+	<button type="button">Scissors</button>
+
+// When button is clicked:
+	computer chooses random:
+		'Rock'
+		'Paper'
+		'Scissors'
